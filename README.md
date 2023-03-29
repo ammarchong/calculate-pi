@@ -9,7 +9,7 @@ Make sure you have Node installed on your local machine.
 
 The server-side will run on `localhost:3001` and the client-side will run on `localhost:3001`
 
-That's it! Thank you 😊 
+That's it! Thank you.
 
 # Project gantt chart and system diagram
 
